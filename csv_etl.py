@@ -31,7 +31,7 @@ def transformacion(**kwargs):
     # elimina columnas que no necesito
     columnas_a_eliminar = ['Unnamed: 0', 'explicit', 'danceability', 'energy', 'duration_ms', 'loudness',
                             'mode', 'speechiness', 'acousticness', 'instrumentalness', 'liveness', 'valence',
-                            'tempo', 'time_signature','track_id','key']
+                            ]
     df = df.drop(columnas_a_eliminar, axis=1)
 
     return df.to_json(orient='records')
