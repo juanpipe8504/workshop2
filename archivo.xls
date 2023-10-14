@@ -1,0 +1,364 @@
+year,category,nominee,artist,winner,album_name,track_name,popularity,track_genre,duration_seconds
+2019,Record Of The Year,7 rings,Ariana Grande,True,"thank u, next",7 rings,84,dance,178.626
+2019,Record Of The Year,7 rings,Ariana Grande,True,"thank u, next",7 rings,84,pop,178.626
+2019,Best Pop Solo Performance,7 rings,Ariana Grande,True,"thank u, next",7 rings,84,dance,178.626
+2019,Best Pop Solo Performance,7 rings,Ariana Grande,True,"thank u, next",7 rings,84,pop,178.626
+2019,Record Of The Year,Truth Hurts,Lizzo,True,Give You Love - Cozy Hits,Truth Hurts,1,hip-hop,173.325
+2019,Record Of The Year,Truth Hurts,Lizzo,True,Rap Party,Truth Hurts,0,hip-hop,173.325
+2019,Record Of The Year,Truth Hurts,Lizzo,True,Good Enough - Easy Pop,Truth Hurts,0,hip-hop,173.325
+2019,Best Pop Solo Performance,Truth Hurts,Lizzo,True,Give You Love - Cozy Hits,Truth Hurts,1,hip-hop,173.325
+2019,Best Pop Solo Performance,Truth Hurts,Lizzo,True,Rap Party,Truth Hurts,0,hip-hop,173.325
+2019,Best Pop Solo Performance,Truth Hurts,Lizzo,True,Good Enough - Easy Pop,Truth Hurts,0,hip-hop,173.325
+2019,Album Of The Year,"thank u, next",Ariana Grande,True,"thank u, next","thank u, next",82,dance,207.32
+2019,Best Pop Vocal Album,"thank u, next",Ariana Grande,True,"thank u, next","thank u, next",82,dance,207.32
+2019,Best Pop Duo/Group Performance,Sucker,Jonas Brothers,True,Happiness Begins,Sucker,81,dance,181.026
+2019,Best Pop Vocal Album,Lover,Taylor Swift,True,Autumn Vibes 2022,Lover,0,pop,221.306
+2019,Best Pop Vocal Album,Lover,Taylor Swift,True,Lover,Lover,85,pop,221.306
+2019,Best Dance Recording,Got To Keep On,The Chemical Brothers,True,No Geography,Got To Keep On,53,breakbeat,316.68
+2019,Best Dance Recording,Linked,Bonobo,True,Linked,Linked,54,electronic,369.461
+2019,Best Dance Recording,Linked,Bonobo,True,Linked,Linked,54,trip-hop,369.461
+2019,Best Dance/Electronic Album,No Geography,The Chemical Brothers,True,No Geography,No Geography,43,breakbeat,190.106
+2019,Best Metal Performance,Bow Down,I Prevail,True,TRAUMA,Bow Down,65,metalcore,242.68
+2019,Best Country Solo Performance,God's Country,Blake Shelton,True,Single Saturday Night - Country Songs,God's Country,0,country,204.8
+2019,Best Country Duo/Group Performance,Speechless,Dan + Shay,True,Autumn Hits,Speechless,0,country,213.386
+2019,Best Country Duo/Group Performance,Speechless,Dan + Shay,True,Dan + Shay,Speechless,72,country,213.386
+2019,Best Contemporary Christian Music Album,Burn The Ships,for KING & COUNTRY,True,Burn The Ships,Burn The Ships,60,world-music,276.4
+2019,Best Contemporary Christian Music Album,Holy Roar,Chris Tomlin,True,Holy Roar,Holy Roar,43,world-music,251.933
+2019,Best American Roots Performance,Call My Name,I'm With Her,True,Call My Name,Call My Name,50,bluegrass,192.666
+2019,Best Folk Album,Front Porch,Joy Williams,True,Front Porch,Front Porch,64,acoustic,231.813
+2019,Best Reggae Album,Rapture,Koffee,True,Rapture EP,Rapture,57,dancehall,181.816
+2019,Best Reggae Album,Rapture,Koffee,True,Rapture EP,Rapture,57,j-dance,181.816
+2019,Best Music Video,We've Got To Try,The Chemical Brothers,True,No Geography,We've Got To Try,40,breakbeat,215.906
+2019,Best Music Video,Glad He's Gone,Tove Lo,True,Sunshine Kitty,Glad He's Gone,54,swedish,196.348
+2019,Best Music Video,Glad He's Gone,Tove Lo,True,Glad He's Gone,Glad He's Gone,51,synth-pop,196.348
+2019,Best Music Video,Glad He's Gone,Tove Lo,True,Sunshine Kitty,Glad He's Gone,54,synth-pop,196.348
+2018,Best Country Solo Performance,Butterflies,Kacey Musgraves,True,Golden Hour,Butterflies,68,country,219.053
+2018,Best Country Duo/Group Performance,Tequila,Dan + Shay,True,Dan + Shay,Tequila,72,country,196.746
+2018,Best American Roots Performance,The Joke,Brandi Carlile,True,"By The Way, I Forgive You",The Joke,60,acoustic,279.373
+2017,Best Rock Performance,You Want It Darker,Leonard Cohen,True,You Want It Darker,You Want It Darker,62,singer-songwriter,284.373
+2017,Best Rock Performance,You Want It Darker,Leonard Cohen,True,You Want It Darker,You Want It Darker,62,songwriter,284.373
+2017,Best R&B Performance,That's What I Like,Bruno Mars,True,24K Magic,That's What I Like,83,dance,206.693
+2017,Best Urban Contemporary Album,Starboy,The Weeknd,True,Starboy,Starboy,90,pop,230.453
+2017,Best Urban Contemporary Album,Starboy,The Weeknd,True,Halloween 2022,Starboy,0,pop,230.461
+2017,Best Urban Contemporary Album,Starboy,The Weeknd,True,Halloween Party 2022,Starboy,0,pop,230.461
+2017,Best Rap Performance,HUMBLE.,Kendrick Lamar,True,DAMN.,HUMBLE.,84,hip-hop,177.0
+2017,Best Music Video,HUMBLE.,Kendrick Lamar,True,DAMN.,HUMBLE.,84,hip-hop,177.0
+2011,Best Pop Solo Performance,Someone Like You,Adele,True,21,Someone Like You,81,british,285.24
+2011,Best Pop Solo Performance,Someone Like You,Adele,True,21,Someone Like You,81,soul,285.24
+2016,Record Of The Year,Hello,Adele,True,25,Hello,74,british,295.502
+2016,Record Of The Year,Hello,Adele,True,Hello,Hello,40,british,295.502
+2016,Record Of The Year,Hello,Adele,True,25,Hello,74,soul,295.502
+2016,Best Pop Solo Performance,Hello,Adele,True,25,Hello,74,british,295.502
+2016,Best Pop Solo Performance,Hello,Adele,True,Hello,Hello,40,british,295.502
+2016,Best Pop Solo Performance,Hello,Adele,True,25,Hello,74,soul,295.502
+2016,Best Pop Duo/Group Performance,Stressed Out,Twenty One Pilots,True,Blurryface,Stressed Out,85,rock,202.333
+2016,Best Pop Duo/Group Performance,Stressed Out,Twenty One Pilots,True,All Out Alternative,Stressed Out,2,rock,202.333
+2016,Best Country Solo Performance,My Church,Maren Morris,True,HERO (Deluxe Edition),My Church,69,country,197.93
+2015,Best Metal Performance,Cirice,Ghost,True,Meliora,Cirice,63,hard-rock,362.093
+2015,Best Country Duo/Group Performance,Girl Crush,Little Big Town,True,Pain Killer,Girl Crush,70,country,193.32
+2014,Best Rock Performance,Lazaretto,Jack White,True,Lazaretto,Lazaretto,58,garage,219.4
+2013,Best Rock Performance,Radioactive,Imagine Dragons,True,Night Visions,Radioactive,80,rock,186.813
+2013,Best Metal Performance,God Is Dead?,Black Sabbath,True,13,God Is Dead?,58,hard-rock,532.266
+2013,Best Country Solo Performance,Wagon Wheel,Darius Rucker,True,Fishing Music,Wagon Wheel,1,country,298.4
+2013,Best Country Solo Performance,Wagon Wheel,Darius Rucker,True,Tailgate Country,Wagon Wheel,0,country,298.4
+2013,Best Country Solo Performance,Wagon Wheel,Darius Rucker,True,True Believers,Wagon Wheel,78,country,298.373
+2012,Best Rock Performance,Lonely Boy,The Black Keys,True,El Camino,Lonely Boy,73,blues,193.653
+2012,Best Rock Performance,Lonely Boy,The Black Keys,True,El Camino,Lonely Boy,73,garage,193.653
+2012,Best Rock Performance,Lonely Boy,The Black Keys,True,El Camino,Lonely Boy,73,punk-rock,193.653
+2012,Best Rock Performance,Lonely Boy,The Black Keys,True,El Camino,Lonely Boy,73,punk,193.653
+2011,Best Rock Performance,Walk,Foo Fighters,True,Wasting Light,Walk,70,grunge,255.96
+2011,Best Rock Performance,Walk,Foo Fighters,True,Wasting Light,Walk,70,metal,255.96
+2010,Best Female Pop Vocal Performance,Bad Romance,Lady Gaga,True,Halloween 2022,Bad Romance,0,dance,294.573
+2010,Best Female Pop Vocal Performance,Bad Romance,Lady Gaga,True,Halloween Kids Party 2022,Bad Romance,0,dance,294.506
+2010,Best Female Pop Vocal Performance,Bad Romance,Lady Gaga,True,Halloween Scary Party,Bad Romance,0,dance,294.506
+2010,Best Female Pop Vocal Performance,Bad Romance,Lady Gaga,True,Halloween Party Canzoni per Bambini 2022,Bad Romance,0,dance,294.506
+2010,Best Female Pop Vocal Performance,Bad Romance,Lady Gaga,True,Halloween Party 2022,Bad Romance,0,dance,294.573
+2010,Best Short Form Music Video,Bad Romance,Lady Gaga,True,Halloween 2022,Bad Romance,0,dance,294.573
+2010,Best Short Form Music Video,Bad Romance,Lady Gaga,True,Halloween Kids Party 2022,Bad Romance,0,dance,294.506
+2010,Best Short Form Music Video,Bad Romance,Lady Gaga,True,Halloween Scary Party,Bad Romance,0,dance,294.506
+2010,Best Short Form Music Video,Bad Romance,Lady Gaga,True,Halloween Party Canzoni per Bambini 2022,Bad Romance,0,dance,294.506
+2010,Best Short Form Music Video,Bad Romance,Lady Gaga,True,Halloween Party 2022,Bad Romance,0,dance,294.573
+2010,Best Rock Performance By A Duo Or Group With Vocals,Tighten Up,The Black Keys,True,Brothers (Deluxe Remastered Anniversary Edition),Tighten Up,61,blues,211.336
+2010,Best Rock Performance By A Duo Or Group With Vocals,Tighten Up,The Black Keys,True,Brothers (Deluxe Remastered Anniversary Edition),Tighten Up,61,garage,211.336
+2010,Best Rock Performance By A Duo Or Group With Vocals,Tighten Up,The Black Keys,True,Brothers (Deluxe Remastered Anniversary Edition),Tighten Up,61,punk-rock,211.336
+2010,Best Rap Solo Performance,Not Afraid,Eminem,True,Recovery,Not Afraid,81,hip-hop,248.133
+2009,Best Dance Recording,Poker Face,Lady Gaga,True,Workout Hits 2023,Poker Face,3,dance,238.906
+2009,Best Dance Recording,Poker Face,Lady Gaga,True,OO's Music Grandi Successi,Poker Face,3,dance,238.906
+2009,Best Dance Recording,Poker Face,Lady Gaga,True,Karneval Klassiker,Poker Face,2,dance,238.906
+2009,Best Dance Recording,Poker Face,Lady Gaga,True,Karneval 2022 100%,Poker Face,1,dance,238.906
+2009,Best Dance Recording,Poker Face,Lady Gaga,True,Best Of Karneval,Poker Face,0,dance,238.906
+2009,Best Dance Recording,Poker Face,Lady Gaga,True,Halloween 2022,Poker Face,0,dance,238.906
+2009,Best Dance Recording,Poker Face,Lady Gaga,True,Halloween Party 2022,Poker Face,0,dance,238.906
+2009,Best Dance Recording,Poker Face,Lady Gaga,True,Almorzando solo,Poker Face,0,dance,238.906
+2009,Best Dance Recording,Poker Face,Lady Gaga,True,De ese gran pop de los 00's,Poker Face,0,dance,238.906
+2009,Best Hard Rock Performance,War Machine,AC/DC,True,Black Ice,War Machine,61,hard-rock,189.786
+2009,Best Rock Album,21st Century Breakdown,Green Day,True,21st Century Breakdown,21st Century Breakdown,37,punk,309.106
+2008,Best Female Pop Vocal Performance,Chasing Pavements,Adele,True,19,Chasing Pavements,74,british,210.506
+2008,Best Female Pop Vocal Performance,Chasing Pavements,Adele,True,19,Chasing Pavements,60,british,210.506
+2008,Best Female Pop Vocal Performance,Chasing Pavements,Adele,True,19,Chasing Pavements,73,soul,210.506
+2008,Best Male Pop Vocal Performance,Say,John Mayer,True,Say,Say,61,singer-songwriter,230.213
+2008,Best Male Pop Vocal Performance,Say,John Mayer,True,Say,Say,61,songwriter,230.213
+2008,Best Solo Rock Vocal Performance,Gravity,John Mayer,True,Continuum,Gravity,72,singer-songwriter,245.826
+2008,Best Solo Rock Vocal Performance,Gravity,John Mayer,True,Continuum,Gravity,72,songwriter,245.826
+2008,Best Short Form Music Video,Pork And Beans,Weezer,True,Weezer,Pork And Beans,52,power-pop,189.4
+2007,Record Of The Year,Rehab,Amy Winehouse,True,Back To Black (Deluxe Edition),Rehab,73,british,214.946
+2007,Record Of The Year,Rehab,Amy Winehouse,True,Back To Black,Rehab,64,british,213.76
+2007,Best Female Pop Vocal Performance,Rehab,Amy Winehouse,True,Back To Black (Deluxe Edition),Rehab,73,british,214.946
+2007,Best Female Pop Vocal Performance,Rehab,Amy Winehouse,True,Back To Black,Rehab,64,british,213.76
+2007,Best Pop Vocal Album,Back To Black,Amy Winehouse,True,Back To Black (Deluxe Edition),Back To Black,81,british,241.293
+2007,Best Pop Vocal Album,Back To Black,Amy Winehouse,True,Back To Black,Back To Black,73,british,240.44
+2007,Best Pop Vocal Album,Back To Black,Amy Winehouse,True,Back To Black (Deluxe Edition),Back To Black,81,soul,241.293
+2007,Best Rock Performance By A Duo Or Group With Vocals,Icky Thump,The White Stripes,True,Icky Thump,Icky Thump,67,blues,254.533
+2007,Best Rock Performance By A Duo Or Group With Vocals,Icky Thump,The White Stripes,True,Icky Thump,Icky Thump,67,garage,254.533
+2007,Best Rock Performance By A Duo Or Group With Vocals,Icky Thump,The White Stripes,True,Icky Thump,Icky Thump,67,punk-rock,254.533
+2007,Best Rock Performance By A Duo Or Group With Vocals,Icky Thump,The White Stripes,True,Icky Thump,Icky Thump,67,punk,254.533
+2007,Best Alternative Music Album,Icky Thump,The White Stripes,True,Icky Thump,Icky Thump,67,blues,254.533
+2007,Best Alternative Music Album,Icky Thump,The White Stripes,True,Icky Thump,Icky Thump,67,garage,254.533
+2007,Best Alternative Music Album,Icky Thump,The White Stripes,True,Icky Thump,Icky Thump,67,punk-rock,254.533
+2007,Best Alternative Music Album,Icky Thump,The White Stripes,True,Icky Thump,Icky Thump,67,punk,254.533
+2007,Best Hard Rock Performance,The Pretender,Foo Fighters,True,"Echoes, Silence, Patience & Grace",The Pretender,79,alt-rock,269.373
+2007,Best Hard Rock Performance,The Pretender,Foo Fighters,True,"Echoes, Silence, Patience & Grace",The Pretender,79,alternative,269.373
+2007,Best Hard Rock Performance,The Pretender,Foo Fighters,True,"Echoes, Silence, Patience & Grace",The Pretender,79,grunge,269.373
+2007,Best Hard Rock Performance,The Pretender,Foo Fighters,True,"Echoes, Silence, Patience & Grace",The Pretender,79,metal,269.373
+2007,Best Female R&B Vocal Performance,No One,Alicia Keys,True,As I Am (Expanded Edition),No One,78,soul,253.813
+2007,Best Female Country Vocal Performance,Before He Cheats,Carrie Underwood,True,Some Hearts,Before He Cheats,78,country,199.946
+2006,Best Rock Performance By A Duo Or Group With Vocal,Dani California,Red Hot Chili Peppers,True,Stadium Arcadium,Dani California,78,alt-rock,282.16
+2006,Best Rock Performance By A Duo Or Group With Vocal,Dani California,Red Hot Chili Peppers,True,Stadium Arcadium,Dani California,78,alternative,282.16
+2006,Best Rock Performance By A Duo Or Group With Vocal,Dani California,Red Hot Chili Peppers,True,Stadium Arcadium,Dani California,78,funk,282.16
+2006,Best Rock Performance By A Duo Or Group With Vocal,Dani California,Red Hot Chili Peppers,True,Stadium Arcadium,Dani California,78,metal,282.16
+2006,Best Hard Rock Performance,Woman,Wolfmother,True,Kick It,Woman,0,alt-rock,177.186
+2006,Best Hard Rock Performance,Woman,Wolfmother,True,Kick It,Woman,0,alternative,177.186
+2006,Best Hard Rock Performance,Woman,Wolfmother,True,Kick It,Woman,0,blues,177.186
+2006,Best Hard Rock Performance,Woman,Wolfmother,True,Wolfmother,Woman,61,blues,175.666
+2006,Best Hard Rock Performance,Woman,Wolfmother,True,Kick It,Woman,0,garage,177.186
+2006,Best Hard Rock Performance,Woman,Wolfmother,True,Wolfmother,Woman,61,garage,175.666
+2006,Best Hard Rock Performance,Woman,Wolfmother,True,Wolfmother,Woman,65,garage,176.306
+2006,Best Hard Rock Performance,Woman,Wolfmother,True,Kick It,Woman,0,psych-rock,177.186
+2006,Best Hard Rock Performance,Woman,Wolfmother,True,Wolfmother,Woman,61,psych-rock,175.666
+2006,Best Hard Rock Performance,Woman,Wolfmother,True,Wolfmother,Woman,65,psych-rock,176.306
+2006,Best Urban/Alternative Performance,Crazy,Gnarls Barkley,True,St. Elsewhere,Crazy,76,soul,177.466
+2005,Best Hard Rock Performance,B.Y.O.B.,System Of A Down,True,Mezmerize,B.Y.O.B.,77,alternative,255.466
+2005,Best Hard Rock Performance,B.Y.O.B.,System Of A Down,True,Mezmerize,B.Y.O.B.,77,metal,255.466
+2005,Best Metal Performance,Before I Forget,Slipknot,True,Vol. 3: The Subliminal Verses,Before I Forget,77,alternative,278.6
+2005,Best Metal Performance,Before I Forget,Slipknot,True,Vol. 3: The Subliminal Verses,Before I Forget,77,metal,278.6
+2004,Best Female Pop Vocal Performance,Sunrise,Norah Jones,True,Feels Like Home,Sunrise,73,j-pop,200.626
+2004,Best Female Pop Vocal Performance,Sunrise,Norah Jones,True,Feels Like Home,Sunrise,73,jazz,200.626
+2004,Best Male Pop Vocal Performance,Daughters,John Mayer,True,Heavier Things,Daughters,67,singer-songwriter,237.906
+2004,Best Male Pop Vocal Performance,Daughters,John Mayer,True,Heavier Things,Daughters,67,songwriter,237.906
+2004,Best Hard Rock Performance,Slither,Velvet Revolver,True,Contraband,Slither,53,grunge,248.306
+2004,Best Hard Rock Performance,Slither,Velvet Revolver,True,Contraband,Slither,53,hard-rock,248.306
+2004,Best Rock Album,American Idiot,Green Day,True,American Idiot,American Idiot,79,punk,176.346
+2004,Best Female R&B Vocal Performance,If I Ain't Got You,Alicia Keys,True,The Diary Of Alicia Keys,If I Ain't Got You,80,soul,228.706
+2003,Best Metal Performance,St. Anger,Metallica,True,St. Anger,St. Anger,62,hard-rock,441.132
+2003,Best Country Instrumental Performance,Cluck Old Hen,Alison Krauss & Union Station,True,Every Time You Say Goodbye,Cluck Old Hen,24,bluegrass,154.506
+2003,Best Short Form Music Video,Hurt,Johnny Cash,True,American IV: The Man Comes Around,Hurt,74,country,216.533
+2002,Record Of The Year,Don't Know Why,Norah Jones,True,De ese gran pop de los 00's,Don't Know Why,0,j-pop,186.16
+2002,Record Of The Year,Don't Know Why,Norah Jones,True,Come Away With Me (Super Deluxe Edition),Don't Know Why,76,j-pop,186.251
+2002,Record Of The Year,Don't Know Why,Norah Jones,True,De ese gran pop de los 00's,Don't Know Why,0,jazz,186.16
+2002,Record Of The Year,Don't Know Why,Norah Jones,True,Come Away With Me (Super Deluxe Edition),Don't Know Why,76,jazz,186.251
+2002,Best Female Pop Vocal Performance,Don't Know Why,Norah Jones,True,De ese gran pop de los 00's,Don't Know Why,0,j-pop,186.16
+2002,Best Female Pop Vocal Performance,Don't Know Why,Norah Jones,True,Come Away With Me (Super Deluxe Edition),Don't Know Why,76,j-pop,186.251
+2002,Best Female Pop Vocal Performance,Don't Know Why,Norah Jones,True,De ese gran pop de los 00's,Don't Know Why,0,jazz,186.16
+2002,Best Female Pop Vocal Performance,Don't Know Why,Norah Jones,True,Come Away With Me (Super Deluxe Edition),Don't Know Why,76,jazz,186.251
+2002,Album Of The Year,Come Away With Me,Norah Jones,True,Desayuno en calma,Come Away With Me,0,j-pop,197.453
+2002,Album Of The Year,Come Away With Me,Norah Jones,True,Come Away With Me (Super Deluxe Edition),Come Away With Me,74,j-pop,198.226
+2002,Album Of The Year,Come Away With Me,Norah Jones,True,Desayuno en calma,Come Away With Me,0,jazz,197.453
+2002,Album Of The Year,Come Away With Me,Norah Jones,True,Come Away With Me (Super Deluxe Edition),Come Away With Me,74,jazz,198.226
+2002,Best Pop Vocal Album,Come Away With Me,Norah Jones,True,Desayuno en calma,Come Away With Me,0,j-pop,197.453
+2002,Best Pop Vocal Album,Come Away With Me,Norah Jones,True,Come Away With Me (Super Deluxe Edition),Come Away With Me,74,j-pop,198.226
+2002,Best Pop Vocal Album,Come Away With Me,Norah Jones,True,Desayuno en calma,Come Away With Me,0,jazz,197.453
+2002,Best Pop Vocal Album,Come Away With Me,Norah Jones,True,Come Away With Me (Super Deluxe Edition),Come Away With Me,74,jazz,198.226
+2002,Best Pop Performance By A Duo Or Group With Vocal,Hey Baby,No Doubt,True,OO's Music Grandi Successi,Hey Baby,0,alt-rock,207.04
+2002,Best Pop Performance By A Duo Or Group With Vocal,Hey Baby,No Doubt,True,OO's Music Grandi Successi,Hey Baby,0,alternative,207.04
+2002,Best Hard Rock Performance,All My Life,Foo Fighters,True,One By One (Expanded Edition),All My Life,74,grunge,263.44
+2002,Best Latin Pop Album,Caraluna,Bacilos,True,Tropical Vibes,Caraluna,0,latin,266.16
+2002,Best Contemporary Folk Album,This Side,Nickel Creek,True,West Coast Country,This Side,20,bluegrass,213.4
+2002,Best Short Form Music Video,Without Me,Eminem,True,The Eminem Show,Without Me,88,hip-hop,290.32
+2001,Best Female Pop Vocal Performance,I'm Like A Bird,Nelly Furtado,True,Sweater Weather,I'm Like A Bird,1,latin,243.16
+2001,Best Female Pop Vocal Performance,I'm Like A Bird,Nelly Furtado,True,OO's Music Grandi Successi,I'm Like A Bird,1,latin,243.16
+2001,Best Female Pop Vocal Performance,I'm Like A Bird,Nelly Furtado,True,De ese gran pop de los 00's,I'm Like A Bird,0,latin,243.16
+2001,Best Hard Rock Performance,Crawling,Linkin Park,True,Hybrid Theory (Bonus Edition),Crawling,76,alternative,208.96
+2001,Best Hard Rock Performance,Crawling,Linkin Park,True,Hybrid Theory (Bonus Edition),Crawling,76,grunge,208.96
+2001,Best Hard Rock Performance,Crawling,Linkin Park,True,Hybrid Theory (20th Anniversary Edition),Crawling,53,grunge,208.96
+2001,Best Hard Rock Performance,Crawling,Linkin Park,True,Hybrid Theory,Crawling,46,grunge,208.96
+2001,Best Hard Rock Performance,Crawling,Linkin Park,True,Hybrid Theory (Bonus Edition),Crawling,76,metal,208.96
+2000,Best Female Pop Vocal Performance,I Try,Macy Gray,True,On How Life Is,I Try,72,soul,239.44
+2000,Best Hard Rock Performance,Guerrilla Radio,Rage Against The Machine,True,The Battle Of Los Angeles,Guerrilla Radio,71,metal,206.2
+2000,Best Rap Solo Performance,The Real Slim Shady,Eminem,True,The Marshall Mathers LP,The Real Slim Shady,87,hip-hop,284.2
+2000,Best Female Country Vocal Performance,Breathe,Faith Hill,True,Breathe,Breathe,67,country,250.546
+2000,Best Country Album,Breathe,Faith Hill,True,Breathe,Breathe,67,country,250.546
+1999,Best Male Rock Vocal Performance,American Woman,Lenny Kravitz,True,Los Clásicos del Pop 90s,American Woman,1,rock,261.706
+1999,Best Male Rock Vocal Performance,American Woman,Lenny Kravitz,True,Hits Pop Rock 90's,American Woman,1,rock,261.706
+1999,Best Hard Rock Performance,Whiskey In The Jar,Metallica,True,Garage Inc.,Whiskey In The Jar,75,hard-rock,304.693
+1999,Best Hard Rock Performance,Whiskey In The Jar,Metallica,True,Garage Inc.,Whiskey In The Jar,75,metal,304.693
+1999,Best Female Country Vocal Performance,Man! I Feel Like A Woman!,Shania Twain,True,Los Clásicos del Pop 90s,Man! I Feel Like A Woman!,3,country,233.0
+1999,Best Female Country Vocal Performance,Man! I Feel Like A Woman!,Shania Twain,True,Tailgate Country,Man! I Feel Like A Woman!,0,country,233.0
+1999,Best Female Country Vocal Performance,Man! I Feel Like A Woman!,Shania Twain,True,Come On Over,Man! I Feel Like A Woman!,78,country,234.493
+1999,Best Male Country Vocal Performance,Choices,George Jones,True,More Country Fun,Choices,19,honky-tonk,206.213
+1999,Best Male Country Vocal Performance,Choices,George Jones,True,Cold Hard Truth,Choices,51,honky-tonk,206.213
+1998,Best Male Rock Vocal Performance,Fly Away,Lenny Kravitz,True,90's Music Grandi Successi,Fly Away,0,rock,221.893
+1998,Best Rock Performance By A Duo Or Group With Vocal,Pink,Aerosmith,True,Nine Lives,Pink,63,hard-rock,235.36
+1998,Best Female Country Vocal Performance,You're Still The One,Shania Twain,True,Los Clásicos del Pop 90s,You're Still The One,3,country,212.56
+1998,Best Female Country Vocal Performance,You're Still The One,Shania Twain,True,Coffee Break,You're Still The One,0,country,212.56
+1998,Best Female Country Vocal Performance,You're Still The One,Shania Twain,True,90's Music Grandi Successi,You're Still The One,0,country,212.56
+1998,Best Female Country Vocal Performance,You're Still The One,Shania Twain,True,Come On Over,You're Still The One,78,country,212.2
+1997,Best Male Pop Vocal Performance,Candle In The Wind 1997,Elton John,True,Candle In The Wind 1997 / Something About ...,Candle In The Wind 1997,59,piano,250.106
+1997,Best Female Rock Vocal Performance,Criminal,Fiona Apple,True,Tidal,Criminal,63,piano,341.533
+1997,Best Rock Performance By A Duo Or Group With Vocal,One Headlight,The Wallflowers,True,Fiesta temática 90s,One Headlight,0,alt-rock,316.52
+1997,Best Rock Performance By A Duo Or Group With Vocal,One Headlight,The Wallflowers,True,Hits Pop Rock 90's,One Headlight,0,alt-rock,316.52
+1997,Best Rock Performance By A Duo Or Group With Vocal,One Headlight,The Wallflowers,True,Fiesta temática 90s,One Headlight,0,grunge,316.52
+1997,Best Rock Performance By A Duo Or Group With Vocal,One Headlight,The Wallflowers,True,Hits Pop Rock 90's,One Headlight,0,grunge,316.52
+1997,Best Rock Performance By A Duo Or Group With Vocal,One Headlight,The Wallflowers,True,Bringing Down The Horse,One Headlight,73,grunge,312.626
+1997,Best Rock Instrumental Performance,Block Rockin' Beats,The Chemical Brothers,True,Brotherhood,Block Rockin' Beats,54,breakbeat,294.026
+1997,Best Rock Instrumental Performance,Block Rockin' Beats,The Chemical Brothers,True,Dig Your Own Hole,Block Rockin' Beats,49,breakbeat,313.666
+1997,Best Rock Instrumental Performance,Block Rockin' Beats,The Chemical Brothers,True,Brotherhood,Block Rockin' Beats,36,breakbeat,294.026
+1997,Best R&B Performance By A Duo Or Group With Vocal,No Diggity,Blackstreet,True,Another Level,No Diggity,77,j-dance,304.6
+1997,Best R&B Performance By A Duo Or Group With Vocal,No Diggity,Blackstreet,True,Another Level,No Diggity,77,j-pop,304.6
+1997,Best R&B Performance By A Duo Or Group With Vocal,No Diggity,Blackstreet,True,Another Level,No Diggity,77,r-n-b,304.6
+1997,Best R&B Performance By A Duo Or Group With Vocal,No Diggity,Blackstreet,True,Another Level,No Diggity,77,soul,304.6
+1996,Best Female Rock Vocal Performance,If It Makes You Happy,Sheryl Crow,True,Los Clásicos del Pop 90s,If It Makes You Happy,1,singer-songwriter,325.373
+1996,Best Female Rock Vocal Performance,If It Makes You Happy,Sheryl Crow,True,Del gusto de mamá,If It Makes You Happy,0,singer-songwriter,325.373
+1996,Best Female Rock Vocal Performance,If It Makes You Happy,Sheryl Crow,True,Los Clásicos del Pop 90s,If It Makes You Happy,1,songwriter,325.373
+1996,Best Female Rock Vocal Performance,If It Makes You Happy,Sheryl Crow,True,Del gusto de mamá,If It Makes You Happy,0,songwriter,325.373
+1995,Best Female Rock Vocal Performance,You Oughta Know,Alanis Morissette,True,Timeless Rock Hits,You Oughta Know,1,singer-songwriter,249.76
+1995,Best Female Rock Vocal Performance,You Oughta Know,Alanis Morissette,True,Timeless Rock Hits,You Oughta Know,1,songwriter,249.76
+1995,Best Rap Solo Performance,Gangsta's Paradise,Coolio,True,Gangsta's Paradise,Gangsta's Paradise,89,funk,240.693
+1995,Best Rap Solo Performance,Gangsta's Paradise,Coolio,True,Gangsta's Paradise,Gangsta's Paradise,89,hip-hop,240.693
+1995,Best Reggae Album,Boombastic,Shaggy,True,90's Music Grandi Successi,Boombastic,1,reggae,246.92
+1995,Best Reggae Album,Boombastic,Shaggy,True,Boombastic,Boombastic,70,reggae,249.933
+1994,Best Rock Performance By A Duo Or Group With Vocal,Crazy,Aerosmith,True,Get A Grip,Crazy,75,hard-rock,316.693
+1994,Best Hard Rock Performance,Black Hole Sun,Soundgarden,True,Rock & Halloween,Black Hole Sun,0,alt-rock,318.586
+1994,Best Hard Rock Performance,Black Hole Sun,Soundgarden,True,Hits Pop Rock 90's,Black Hole Sun,1,alt-rock,318.586
+1994,Best Hard Rock Performance,Black Hole Sun,Soundgarden,True,Superunknown (Deluxe Edition),Black Hole Sun,77,alt-rock,318.586
+1994,Best Hard Rock Performance,Black Hole Sun,Soundgarden,True,Rock & Halloween,Black Hole Sun,0,alternative,318.586
+1994,Best Hard Rock Performance,Black Hole Sun,Soundgarden,True,Hits Pop Rock 90's,Black Hole Sun,1,alternative,318.586
+1994,Best Hard Rock Performance,Black Hole Sun,Soundgarden,True,Superunknown (Deluxe Edition),Black Hole Sun,77,alternative,318.586
+1994,Best Hard Rock Performance,Black Hole Sun,Soundgarden,True,Rock & Halloween,Black Hole Sun,0,grunge,318.586
+1994,Best Hard Rock Performance,Black Hole Sun,Soundgarden,True,Hits Pop Rock 90's,Black Hole Sun,1,grunge,318.586
+1994,Best Hard Rock Performance,Black Hole Sun,Soundgarden,True,Superunknown (Deluxe Edition),Black Hole Sun,77,grunge,318.586
+1994,Best Hard Rock Performance,Black Hole Sun,Soundgarden,True,Rock & Halloween,Black Hole Sun,0,hard-rock,318.586
+1994,Best Hard Rock Performance,Black Hole Sun,Soundgarden,True,Hits Pop Rock 90's,Black Hole Sun,1,hard-rock,318.586
+1994,Best Hard Rock Performance,Black Hole Sun,Soundgarden,True,Superunknown (Deluxe Edition),Black Hole Sun,77,hard-rock,318.586
+1994,Best Hard Rock Performance,Black Hole Sun,Soundgarden,True,Rock & Halloween,Black Hole Sun,0,metal,318.586
+1994,Best Hard Rock Performance,Black Hole Sun,Soundgarden,True,Hits Pop Rock 90's,Black Hole Sun,1,metal,318.586
+1994,Best Hard Rock Performance,Black Hole Sun,Soundgarden,True,Superunknown (Deluxe Edition),Black Hole Sun,77,metal,318.586
+1994,Best Metal Performance,Spoonman,Soundgarden,True,Hits Pop Rock 90's,Spoonman,0,alt-rock,246.92
+1994,Best Metal Performance,Spoonman,Soundgarden,True,Hits Pop Rock 90's,Spoonman,0,alternative,246.92
+1994,Best Metal Performance,Spoonman,Soundgarden,True,Hits Pop Rock 90's,Spoonman,0,grunge,246.92
+1994,Best Metal Performance,Spoonman,Soundgarden,True,Superunknown (20th Anniversary),Spoonman,67,grunge,246.92
+1994,Best Metal Performance,Spoonman,Soundgarden,True,Hits Pop Rock 90's,Spoonman,0,hard-rock,246.92
+1994,Best Metal Performance,Spoonman,Soundgarden,True,Hits Pop Rock 90's,Spoonman,0,metal,246.92
+1994,Best Rock Instrumental Performance,Marooned,Pink Floyd,True,The Division Bell,Marooned,56,psych-rock,330.385
+1994,Best R&B Performance By A Duo Or Group With Vocal,I'll Make Love To You,Boyz II Men,True,Los Clásicos del Pop 90s,I'll Make Love To You,2,r-n-b,245.786
+1994,Best R&B Performance By A Duo Or Group With Vocal,I'll Make Love To You,Boyz II Men,True,II,I'll Make Love To You,67,r-n-b,236.76
+1993,Best Rock Performance By A Duo Or Group With Vocal,Livin' On The Edge,Aerosmith,True,Get A Grip,Livin' On The Edge,62,hard-rock,380.893
+1993,Best Hard Rock Performance With Vocal,Plush,Stone Temple Pilots,True,Timeless Rock Hits,Plush,1,alt-rock,310.346
+1993,Best Hard Rock Performance With Vocal,Plush,Stone Temple Pilots,True,Timeless Rock Hits,Plush,1,alternative,310.346
+1993,Best Hard Rock Performance With Vocal,Plush,Stone Temple Pilots,True,Timeless Rock Hits,Plush,1,grunge,310.346
+1993,Best Hard Rock Performance With Vocal,Plush,Stone Temple Pilots,True,Core,Plush,66,grunge,310.346
+1993,Best Hard Rock Performance With Vocal,Plush,Stone Temple Pilots,True,Thank You,Plush,62,grunge,310.4
+1993,Best Hard Rock Performance With Vocal,Plush,Stone Temple Pilots,True,Timeless Rock Hits,Plush,1,hard-rock,310.346
+1993,Best Hard Rock Performance With Vocal,Plush,Stone Temple Pilots,True,Core,Plush,66,hard-rock,310.346
+1993,Best Hard Rock Performance With Vocal,Plush,Stone Temple Pilots,True,Timeless Rock Hits,Plush,1,metal,310.346
+1993,Best R&B Performance By A Duo Or Group With Vocal,No Ordinary Love,Sade,True,Love Deluxe,No Ordinary Love,67,british,440.466
+1992,Best Hard Rock Performance With Vocal,Give It Away,Red Hot Chili Peppers,True,Blood Sugar Sex Magik (Deluxe Edition),Give It Away,73,metal,282.906
+1992,Best Metal Performance,Wish,Nine Inch Nails,True,Broken,Wish,56,industrial,226.733
+1992,Best R&B Performance By A Duo Or Group With Vocal,End Of The Road,Boyz II Men,True,Cooleyhighharmony (Bonus Tracks Version),End Of The Road,71,r-n-b,351.466
+1991,Best Pop Performance By A Duo Or Group With Vocal,Losing My Religion,R.E.M.,True,90's Music Grandi Successi,Losing My Religion,0,alt-rock,268.426
+1991,Best Pop Performance By A Duo Or Group With Vocal,Losing My Religion,R.E.M.,True,Out Of Time (25th Anniversary Edition),Losing My Religion,84,alt-rock,268.426
+1991,Best Pop Performance By A Duo Or Group With Vocal,Losing My Religion,R.E.M.,True,90's Music Grandi Successi,Losing My Religion,0,alternative,268.426
+1991,Best Pop Performance By A Duo Or Group With Vocal,Losing My Religion,R.E.M.,True,Out Of Time (25th Anniversary Edition),Losing My Religion,84,alternative,268.426
+1991,Best Pop Performance By A Duo Or Group With Vocal,Losing My Religion,R.E.M.,True,90's Music Grandi Successi,Losing My Religion,0,indie-pop,268.426
+1991,Best Pop Performance By A Duo Or Group With Vocal,Losing My Religion,R.E.M.,True,Out Of Time (25th Anniversary Edition),Losing My Religion,84,indie-pop,268.426
+1991,Best Pop Performance By A Duo Or Group With Vocal,Losing My Religion,R.E.M.,True,90's Music Grandi Successi,Losing My Religion,0,indie,268.426
+1991,Best Pop Performance By A Duo Or Group With Vocal,Losing My Religion,R.E.M.,True,Out Of Time (25th Anniversary Edition),Losing My Religion,84,indie,268.426
+1991,Best Pop Performance By A Duo Or Group With Vocal,Losing My Religion,R.E.M.,True,90's Music Grandi Successi,Losing My Religion,1,rock,268.426
+1991,Best Music Video - Short Form,Losing My Religion,R.E.M.,True,90's Music Grandi Successi,Losing My Religion,0,alt-rock,268.426
+1991,Best Music Video - Short Form,Losing My Religion,R.E.M.,True,Out Of Time (25th Anniversary Edition),Losing My Religion,84,alt-rock,268.426
+1991,Best Music Video - Short Form,Losing My Religion,R.E.M.,True,90's Music Grandi Successi,Losing My Religion,0,alternative,268.426
+1991,Best Music Video - Short Form,Losing My Religion,R.E.M.,True,Out Of Time (25th Anniversary Edition),Losing My Religion,84,alternative,268.426
+1991,Best Music Video - Short Form,Losing My Religion,R.E.M.,True,90's Music Grandi Successi,Losing My Religion,0,indie-pop,268.426
+1991,Best Music Video - Short Form,Losing My Religion,R.E.M.,True,Out Of Time (25th Anniversary Edition),Losing My Religion,84,indie-pop,268.426
+1991,Best Music Video - Short Form,Losing My Religion,R.E.M.,True,90's Music Grandi Successi,Losing My Religion,0,indie,268.426
+1991,Best Music Video - Short Form,Losing My Religion,R.E.M.,True,Out Of Time (25th Anniversary Edition),Losing My Religion,84,indie,268.426
+1991,Best Music Video - Short Form,Losing My Religion,R.E.M.,True,90's Music Grandi Successi,Losing My Religion,1,rock,268.426
+1989,Best Metal Performance,One,Metallica,True,...And Justice For All,One,73,hard-rock,447.44
+1989,Best Metal Performance,One,Metallica,True,...And Justice For All,One,73,metal,447.44
+1989,Best Country Vocal Collaboration,There's A Tear In My Beer,Hank Williams,True,The Ultimate Collection,There's A Tear In My Beer,13,honky-tonk,168.106
+1988,"Best Pop Vocal Performance, Female",Fast Car,Tracy Chapman,True,Tracy Chapman,Fast Car,78,folk,296.8
+1988,"Best Pop Vocal Performance, Female",Fast Car,Tracy Chapman,True,Tracy Chapman,Fast Car,78,singer-songwriter,296.8
+1988,"Best Pop Vocal Performance, Female",Fast Car,Tracy Chapman,True,Tracy Chapman,Fast Car,78,songwriter,296.8
+1988,"Best Rock Vocal Performance, Male",Simply Irresistible,Robert Palmer,True,80's,Simply Irresistible,0,blues,254.293
+1988,"Best Rock Vocal Performance, Male",Simply Irresistible,Robert Palmer,True,80's,Simply Irresistible,0,disco,254.293
+1988,"Best Rock Vocal Performance, Male",Simply Irresistible,Robert Palmer,True,80's,Simply Irresistible,0,r-n-b,254.293
+1986,"Best Rock Vocal Performance, Male",Addicted To Love,Robert Palmer,True,Fiesta temática 80s,Addicted To Love,0,blues,359.706
+1986,"Best Rock Vocal Performance, Male",Addicted To Love,Robert Palmer,True,Fiesta temática 80s,Addicted To Love,0,disco,359.706
+1986,"Best Rock Vocal Performance, Male",Addicted To Love,Robert Palmer,True,Riptide,Addicted To Love,68,disco,363.64
+1986,"Best Rock Vocal Performance, Male",Addicted To Love,Robert Palmer,True,Fiesta temática 80s,Addicted To Love,0,r-n-b,359.706
+1986,"Best Rock Vocal Performance, Male",Addicted To Love,Robert Palmer,True,Fiesta temática 80s,Addicted To Love,0,singer-songwriter,359.706
+1986,"Best Rock Vocal Performance, Male",Addicted To Love,Robert Palmer,True,Fiesta temática 80s,Addicted To Love,0,songwriter,359.706
+1985,"Best Rock Vocal Performance, Male",The Boys Of Summer,Don Henley,True,80s Bangers Vol. 1,The Boys Of Summer,1,country,288.333
+1985,"Best Rock Vocal Performance, Male",The Boys Of Summer,Don Henley,True,Обратно в клас - rock,The Boys Of Summer,0,country,288.333
+1985,"Best Rock Vocal Performance, Male",The Boys Of Summer,Don Henley,True,Building The Perfect Beast,The Boys Of Summer,77,country,288.733
+1985,"Best Rock Vocal Performance, Male",The Boys Of Summer,Don Henley,True,Обратно в клас - rock,The Boys Of Summer,0,folk,288.333
+1985,"Best Rock Vocal Performance, Male",The Boys Of Summer,Don Henley,True,80s Bangers Vol. 1,The Boys Of Summer,1,folk,288.333
+1985,"Best Rock Vocal Performance, Male",The Boys Of Summer,Don Henley,True,Обратно в клас - rock,The Boys Of Summer,0,singer-songwriter,288.333
+1985,"Best Rock Vocal Performance, Male",The Boys Of Summer,Don Henley,True,80s Bangers Vol. 1,The Boys Of Summer,2,singer-songwriter,288.333
+1985,"Best Rock Vocal Performance, Male",The Boys Of Summer,Don Henley,True,Building The Perfect Beast,The Boys Of Summer,77,singer-songwriter,288.733
+1985,"Best Rock Vocal Performance, Male",The Boys Of Summer,Don Henley,True,80s Bangers Vol. 1,The Boys Of Summer,2,songwriter,288.333
+1985,"Best Rock Vocal Performance, Male",The Boys Of Summer,Don Henley,True,Обратно в клас - rock,The Boys Of Summer,0,songwriter,288.333
+1985,"Best Rock Vocal Performance, Male",The Boys Of Summer,Don Henley,True,Building The Perfect Beast,The Boys Of Summer,77,songwriter,288.733
+1983,"Best Pop Vocal Performance, Male",Thriller,Michael Jackson,True,Scream,Thriller,70,soul,358.053
+1983,Album Of The Year,Thriller,Michael Jackson,True,Scream,Thriller,70,soul,358.053
+1983,Best Pop Performance By A Duo Or Group With Vocal,Every Breath You Take,The Police,True,Synchronicity (Remastered 2003),Every Breath You Take,86,rock,253.92
+1982,"Best Pop Vocal Performance, Male",Truly,Lionel Richie,True,Lionel Richie,Truly,60,disco,200.506
+1980,Record Of The Year,Sailing,Christopher Cross,True,Christopher Cross,Sailing,71,disco,256.146
+1980,"Best Country Vocal Performance, Male",He Stopped Loving Her Today,George Jones,True,George Jones - 16 Biggest Hits,He Stopped Loving Her Today,54,honky-tonk,197.4
+1980,"Best Country Vocal Performance, Male",He Stopped Loving Her Today,George Jones,True,Super Hits,He Stopped Loving Her Today,54,honky-tonk,195.333
+1980,"Best Country Vocal Performance, Male",He Stopped Loving Her Today,George Jones,True,I Am What I Am (Expanded Edition),He Stopped Loving Her Today,56,honky-tonk,195.76
+1980,"Best Country Vocal Performance, Male",He Stopped Loving Her Today,George Jones,True,Love Songs,He Stopped Loving Her Today,22,honky-tonk,195.76
+1980,"Best Country Vocal Performance, Male",He Stopped Loving Her Today,George Jones,True,Hits I Missed And One I Didn't,He Stopped Loving Her Today,13,honky-tonk,201.266
+1980,"Best Country Vocal Performance, Male",He Stopped Loving Her Today,George Jones,True,The Essential George Jones: The Spirit Of Country,He Stopped Loving Her Today,12,honky-tonk,197.026
+1979,"Best Rock Vocal Performance, Female",Hot Stuff,Donna Summer,True,Bad Girls,Hot Stuff,67,disco,314.76
+1979,Best R&B Instrumental Performance,Boogie Wonderland,Earth,True,I Am,Boogie Wonderland,76,disco,288.293
+1979,Best R&B Instrumental Performance,Boogie Wonderland,Earth,True,I Am,Boogie Wonderland,76,jazz,288.293
+1979,Best Disco Recording,I Will Survive,Gloria Gaynor,True,Disco Boogie Mood,I Will Survive,0,disco,296.106
+1979,Best Disco Recording,I Will Survive,Gloria Gaynor,True,Love Tracks,I Will Survive,69,disco,296.106
+1979,"Best Country Vocal Performance, Male",The Gambler,Kenny Rogers,True,The Gambler,The Gambler,75,country,214.88
+1977,Best Pop Vocal Performance By A Group,How Deep Is Your Love,Bee Gees,True,Greatest,How Deep Is Your Love,74,disco,245.2
+1976,"Best Pop Vocal Performance By A Duo, Group Or Chorus",If You Leave Me Now,Chicago,True,Chicago X,If You Leave Me Now,74,singer-songwriter,235.373
+1976,"Best Pop Vocal Performance By A Duo, Group Or Chorus",If You Leave Me Now,Chicago,True,Chicago X,If You Leave Me Now,74,songwriter,235.373
+1976,Best Pop Instrumental Performance,Breezin',George Benson,True,Breezin',Breezin',60,guitar,341.733
+1973,Record Of The Year,Killing Me Softly With His Song,Roberta Flack,True,Killing Me Softly,Killing Me Softly With His Song,72,disco,286.92
+1973,Record Of The Year,Killing Me Softly With His Song,Roberta Flack,True,Killing Me Softly,Killing Me Softly With His Song,72,soul,286.92
+1973,"Best Pop Vocal Performance, Female",Killing Me Softly With His Song,Roberta Flack,True,Killing Me Softly,Killing Me Softly With His Song,72,disco,286.92
+1973,"Best Pop Vocal Performance, Female",Killing Me Softly With His Song,Roberta Flack,True,Killing Me Softly,Killing Me Softly With His Song,72,soul,286.92
+1973,"Best R&B Vocal Performance, Male",Superstition,Stevie Wonder,True,Halloween Scary Party,Superstition,0,funk,267.733
+1973,"Best R&B Vocal Performance, Male",Superstition,Stevie Wonder,True,Halloween Hits,Superstition,4,funk,267.733
+1973,"Best R&B Vocal Performance, Male",Superstition,Stevie Wonder,True,Halloween Kids Party 2022,Superstition,0,funk,267.733
+1973,"Best R&B Vocal Performance, Male",Superstition,Stevie Wonder,True,Halloween Kids Party 2022,Superstition,0,indie,267.733
+1973,"Best R&B Vocal Performance, Male",Superstition,Stevie Wonder,True,Halloween Hits,Superstition,4,indie,267.733
+1973,"Best R&B Vocal Performance, Male",Superstition,Stevie Wonder,True,Halloween Scary Party,Superstition,0,indie,267.733
+1973,"Best R&B Vocal Performance, Male",Superstition,Stevie Wonder,True,Halloween Kids Party 2022,Superstition,0,soul,267.733
+1973,"Best R&B Vocal Performance, Male",Superstition,Stevie Wonder,True,Halloween Scary Party,Superstition,0,soul,267.733
+1973,"Best Country Vocal Performance, Male",Behind Closed Doors,Charlie Rich,True,Love Songs,Behind Closed Doors,55,rockabilly,174.666
+1970,"Best R&B Vocal Performance, Male",The Thrill Is Gone,B.B. King,True,Completely Well,The Thrill Is Gone,62,blues,324.733
+1970,"Best R&B Vocal Performance, Male",The Thrill Is Gone,B.B. King,True,Deuces Wild,The Thrill Is Gone,64,blues,301.133
+1970,"Best R&B Vocal Performance, Male",The Thrill Is Gone,B.B. King,True,B.B. King & Friends - 80,The Thrill Is Gone,51,blues,301.453
+1970,"Best R&B Vocal Performance, Male",The Thrill Is Gone,B.B. King,True,Completely Well,The Thrill Is Gone,62,j-rock,324.733
+1970,"Best Country Vocal Performance, Male",For The Good Times,Ray Price,True,Ray Price - 16 Biggest Hits,For The Good Times,14,honky-tonk,228.533
+1970,"Best Country Vocal Performance, Male",For The Good Times,Ray Price,True,For The Good Times,For The Good Times,13,honky-tonk,243.24
+1964,"Best Vocal Performance, Male","Hello, Dolly!",Louis Armstrong,True,"Hello, Dolly! (Remastered)","Hello, Dolly!",62,jazz,147.0
+1964,Best Rock & Roll Recording,Downtown,Petula Clark,True,The Classic Collection,Downtown,20,rock-n-roll,185.066
+1963,"Best Vocal Performance, Male",Wives And Lovers,Jack Jones,True,The Greatest Jazz Mix,Wives And Lovers,0,j-pop,149.92
+1962,Best Rhythm & Blues Recording,I Can't Stop Loving You,Ray Charles,True,"Modern Sounds in Country and Western Music, Vols 1 & 2",I Can't Stop Loving You,63,blues,256.12
+1962,Best Rhythm & Blues Recording,I Can't Stop Loving You,Ray Charles,True,"Modern Sounds in Country and Western Music, Vols 1 & 2",I Can't Stop Loving You,63,piano,256.12
+1961,Best Rock & Roll Recording,Let's Twist Again,Chubby Checker,True,It's Pony Time/Let's Twist Again,Let's Twist Again,68,r-n-b,137.36
+1961,Best Rock & Roll Recording,Let's Twist Again,Chubby Checker,True,It's Pony Time/Let's Twist Again,Let's Twist Again,68,rock-n-roll,137.36
+1961,Best Rock & Roll Recording,Let's Twist Again,Chubby Checker,True,It's Pony Time/Let's Twist Again,Let's Twist Again,68,rockabilly,137.36
+1958,Best Rhythm & Blues Performance,Tequila,The Champs,True,Greatest Hits / Tequila,Tequila,60,rock-n-roll,135.24
+1958,Best Rhythm & Blues Performance,Tequila,The Champs,True,Wiggle Wobble (50's & 60's Collection of Music),Tequila,0,rock-n-roll,134.533
+1958,Best Rhythm & Blues Performance,Tequila,The Champs,True,Go Champs Go!,Tequila,55,rock-n-roll,135.026
+1958,Best Rhythm & Blues Performance,Tequila,The Champs,True,Greatest Hits / Tequila,Tequila,60,rockabilly,135.24
+1958,Best Rhythm & Blues Performance,Tequila,The Champs,True,Wiggle Wobble (50's & 60's Collection of Music),Tequila,0,rockabilly,134.533
+1958,Best Rhythm & Blues Performance,Tequila,The Champs,True,Go Champs Go!,Tequila,55,rockabilly,135.026
