@@ -8,7 +8,7 @@ Este repositorio contiene el código para una canalización ETL (Extract, Transf
 - `base_etl.py`: Contiene funciones para extraer y transformar datos apartir de la base de datos.
 - `csv_etl.py`: Incluye funciones para leer archivos CSV y realizar transformaciones específicas para datos en formato CSV.
 - `merge.py`: Define funciones para fusionar datos de varias fuentes y cargarlos en un sistema de almacenamiento.
-- `main_dag.py`: Contiene la definición de DAG de Airflow para orquestar la canalización ETL.
+- `worshop_dag.py`: Contiene la definición de DAG de Airflow para orquestar la canalización ETL.
 
 ## Configuración del DAG de Airflow
 
@@ -22,7 +22,7 @@ Este repositorio contiene el código para una canalización ETL (Extract, Transf
 
 ## Ejecución del DAG
 
-Para ejecutar el DAG, asegúrate de tener Apache Airflow configurado correctamente. Coloca el archivo `main_dag.py` en el directorio de DAG de Airflow.
+Para ejecutar el DAG, asegúrate de tener Apache Airflow configurado correctamente. Coloca el archivo `worshop_dag.py` en el directorio de DAG de Airflow.
 
 1. Inicia el planificador de Airflow: `airflow scheduler`
 2. Inicia el servidor web de Airflow: `airflow 8080`
