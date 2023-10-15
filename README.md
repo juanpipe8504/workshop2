@@ -14,7 +14,7 @@ Este repositorio contiene el código para una canalización ETL (Extract, Transf
 
 1. Instala las dependencias necesarias 
 2. Asegúrate de tener Apache Airflow instalado en tu sistema.
-3. Importa los módulos y operadores necesarios para el DAG en `main_dag.py`.
+3. Importa los módulos y operadores necesarios para el DAG en `worshop_dag.py`.
 4. Define los argumentos predeterminados para el DAG, incluyendo el propietario, la fecha de inicio, la configuración de correo electrónico, etc.
 5. Define funciones en Python para las operaciones ETL, como leer datos, transformarlos y fusionarlos.
 6. Configura las tareas utilizando PythonOperator para ejecutar las funciones ETL como tareas en el DAG.
